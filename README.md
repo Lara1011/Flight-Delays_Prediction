@@ -47,3 +47,7 @@ The project successfully achieved its research objectives. Feature importance wa
 1. [Research Paper](https://www.mdpi.com/2071-1050/14/22/15367)
 2. [Medium Article](https://medium.com/analytics-vidhya/using-machine-learning-to-predict-flight-delays-e8a50b0bb64c)
 3. [Blog Post](https://industryforever.wordpress.com/2017/10/12/predicting-flight-delays-using-tensorflow-and-machine-learning/)
+
+## Accessing the Dataset
+
+If you are interested in accessing the dataset used in this project, please feel free to contact us. You can reach out to [Lara] at [laraabuhamad@gmail.com] for further information regarding dataset availability and usage.
